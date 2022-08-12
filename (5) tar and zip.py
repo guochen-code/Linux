@@ -1,3 +1,5 @@
+z for gzip, j for bzip2, J for xz
+************************************************************************************************************
 tarballs are contains to store files in for compression. It does not do compression.
 
 ************************************************* achiving *************************************************
